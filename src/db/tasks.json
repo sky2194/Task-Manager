@@ -1,0 +1,30 @@
+[
+  {
+    "id": "seed-1",
+    "title": "Learn Node.js Basics",
+    "description": "Understand modules, require, and the event loop.",
+    "completed": true,
+    "createdAt": "2025-01-10T10:00:00.000Z"
+  },
+  {
+    "id": "seed-2",
+    "title": "Build a REST API",
+    "description": "Create CRUD endpoints using Express.js.",
+    "completed": false,
+    "createdAt": "2025-01-12T14:30:00.000Z"
+  },
+  {
+    "id": "seed-3",
+    "title": "Master Middleware",
+    "description": "Learn how middleware functions work in Express.",
+    "completed": false,
+    "createdAt": "2025-01-15T09:00:00.000Z"
+  },
+  {
+    "id": "f0992dcf-e3c2-434e-9f5d-2f1f61043b16",
+    "title": "Nginx",
+    "description": "This project is used for learning Nginx",
+    "completed": false,
+    "createdAt": "2026-01-31T22:54:17.857Z"
+  }
+]
