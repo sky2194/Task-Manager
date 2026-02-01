@@ -9,7 +9,9 @@ const app = require("./app");
 
 const PORT = process.env.PORT || 3000;
 
+const replicaApp = process.env.APP_NAME
+
 app.listen(PORT, () => {
-  console.log(`🚀 ${process.env.APP_NAME} is running on http://localhost:${PORT}`);
-  console.log(`📦 Environment: ${process.env.NODE_ENV}`);
+  console.log(`🚀 ${replicaApp} is running on http://localhost:${PORT}`);
+  console.log(`Request served by ${replicaApp}`);
 });
