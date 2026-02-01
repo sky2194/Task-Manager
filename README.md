@@ -55,3 +55,8 @@ src/
 - Jest (testing)
 - Nodemon (development)
 
+
+app3-1  | [2026-02-01T23:16:34.695Z] 200 GET / — 2ms
+app1-1  | [2026-02-01T23:16:37.718Z] 200 GET / — 2ms
+app2-1  | [2026-02-01T23:16:38.753Z] 200 GET / — 1ms
+app3-1  | [2026-02-01T23:16:39.754Z] 200 GET / — 1ms
