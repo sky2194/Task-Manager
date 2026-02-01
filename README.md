@@ -15,6 +15,8 @@ npm run dev
 npm test
 ```
 
+npx serve
+
 ## API Endpoints
 
 | Method | Endpoint | Description |
